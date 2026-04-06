@@ -1,0 +1,8 @@
+
+Fusion Model Evaluation Results (EuroSAT)
+
+Accuracy  : 94.54 %
+Precision : 94.57 %
+Recall    : 94.54 %
+F1-score  : 94.53 %
+Inference Time : 0.21 ms/image

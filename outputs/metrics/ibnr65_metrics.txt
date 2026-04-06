@@ -1,0 +1,8 @@
+
+IBNR-65 Evaluation Results (EuroSAT)
+
+Accuracy  : 95.17 %
+Precision : 95.21 %
+Recall    : 95.17 %
+F1-score  : 95.16 %
+Inference Time : 0.13 ms/image

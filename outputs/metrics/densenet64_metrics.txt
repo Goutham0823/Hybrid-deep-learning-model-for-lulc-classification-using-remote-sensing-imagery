@@ -1,0 +1,8 @@
+
+DenseNet-64 Evaluation Results (EuroSAT)
+
+Accuracy  : 90.19 %
+Precision : 90.57 %
+Recall    : 90.19 %
+F1-score  : 90.19 %
+Inference Time : 0.14 ms/image

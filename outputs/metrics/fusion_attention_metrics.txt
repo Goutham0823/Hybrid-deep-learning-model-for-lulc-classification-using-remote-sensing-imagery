@@ -1,0 +1,8 @@
+
+Hybrid Fusion + Self-Attention Evaluation Results (EuroSAT)
+
+Accuracy  : 97.09 %
+Precision : 97.10 %
+Recall    : 97.09 %
+F1-score  : 97.09 %
+Inference Time : 0.19 ms/image
